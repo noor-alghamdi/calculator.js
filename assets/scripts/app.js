@@ -1,6 +1,8 @@
 let defaultResult = 0
 let currentResult = defaultResult
 
+
+// added func that holds if condition to perform each operation if is met the word (DEVIDE,SUM,SUBTRACT...)didn't do it , not worth it.
 function getUserInput(){
     return parseInt(userInput.value)
 }
